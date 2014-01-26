@@ -1,6 +1,5 @@
-Tutoriales de python :)
+Tutoriales de python 
 ======================
 
-Bienvenidos a la comunidad de python-uni.
+Bienvenidos a la comunidad de Python-Uni.
 
-Hola soy Diana.
