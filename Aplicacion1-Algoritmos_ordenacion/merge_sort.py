@@ -1,8 +1,8 @@
 """Implementacion del algoritmo merge 
     sobre una lista y retorna una lista 
-    ordenada
+    ordenada.
 
-    Se usa divide and conquer recursivamente para 
+    Se usa  la tecnica divide and conquer recursivamente para 
     dividir y ordenar la lista
 
 """
