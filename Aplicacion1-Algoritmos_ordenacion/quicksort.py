@@ -2,7 +2,7 @@
     Implementacion del algoritmo llamado
     Quicksort o de ordenamiento rapido
     sobre una lista y que retorna una lista 
-    ordenada
+    ordenada. Algoritmo elemental.
 
 """
 
