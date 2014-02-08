@@ -2,6 +2,7 @@
     ordenamiento.
     Implementacion del ordenamiento shell en
     una lista y retorna una lista ordenada
+    en Python
 
 """
 
