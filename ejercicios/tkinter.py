@@ -1,3 +1,6 @@
+# Escribir el siguiente y explicar que son significan
+# por ejemplo el nombre que empieza con un guion.
+
 #!/usr/bin/python
 
 from Tkinter import *
