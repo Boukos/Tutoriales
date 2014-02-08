@@ -1,5 +1,6 @@
 """Implementacion por insercion sobre una
     lista y retorna una lista ordenada
+    Algoritmo Elemental
     """
 
 def sort(seq):
