@@ -1,7 +1,7 @@
 """
     Implementacion del algoritmo de seleccion
     de una lista, dando como retorno una lista
-    ordenada
+    ordenada. Algoritmo elemental en Python.
 
 """
 
