@@ -1,5 +1,5 @@
 """La ordenacion de burbuja, un algoritmo
-    de ordenamiento.
+    de ordenamiento elemental.
 
 Implementacion de la ordenacion burbuja sobre
 una lista, retornando una lista ordenada
